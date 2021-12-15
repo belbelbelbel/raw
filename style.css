@@ -1,0 +1,149 @@
+* {
+box-sizing: border-box;
+}
+
+html,
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0;
+    margin: 0;
+    color: darkblue;
+}
+
+section {
+    padding: 50px;
+    background-color: white;
+}
+
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    background-color:  black;
+    padding: 30px;
+}
+
+.input {
+    background-color: lightgreen;
+}
+
+.lat {
+    display: flex;
+    justify-content: center;
+}
+.latest {
+    display: flex;
+    justify-content: space-around;
+}
+
+.latest div {
+    padding: 20px;
+}
+
+.rob {
+    padding: 10px 0;
+}
+
+h4 {
+    padding: 0;
+    margin: 0;
+}
+
+
+.why {
+  display: flex;
+  padding-left: 170px;
+}
+
+h2 {
+    padding: 0;
+    margin: 0;
+}
+
+.boot {
+ padding: 10px;
+}
+
+.lat {
+    padding: 10px;
+    margin: 20px 0;
+}
+
+.eme {
+    display: flex;
+    justify-content: center;
+}
+
+section .red {
+    background-color: white;
+    padding: 50px;
+}
+
+section .blue {
+    background-color: whitesmoke;
+    padding: 50px;
+}
+
+.eme div {
+    padding: 0 3rem;
+}
+
+
+p {
+    font-size: 10px;
+}
+.ron{
+   margin: 2rem 8rem;
+}
+ 
+button {
+    border-radius: 15rem;
+    background-color: lightgreen;
+    padding: 10px;
+}
+
+.rex {
+  display: flex;
+  border: 1px solid whitesmoke;
+  background-color: whitesmoke;
+  justify-content: center;
+  align-items: center;
+}
+
+.pic {
+    background-image: url(./images/image-mockups.png);
+    background-size: cover;
+    margin: 0 8rem;
+    border-radius: 15rem;
+}
+
+.href {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+
+ li {
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ ul li a {
+     padding: 0 1.1rem;
+     text-decoration: none;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     font-size: 0.6rem;
+ }
